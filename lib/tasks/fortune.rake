@@ -12,4 +12,6 @@ task :fortune do
   # Your code goes below.
   # =====================================================================
 
+  ap(fortunes.sample)
+
 end
